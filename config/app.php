@@ -159,7 +159,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+       // \Danon910\blitzy\Providers\BlitzyProvider::class,
         /*
          * Application Service Providers...
          */
